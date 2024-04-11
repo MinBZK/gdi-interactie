@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rijksoverheid.nl"
+    id="id-c34b8ccaeadd48f1bf2a98d248f9caf2"
+    documentation="Op Rijksoverheid.nl informeren ministeries u over wetten en regels van het Rijk.">
+  <properties
+      key="BouwsteenID_DO30"
+      value="17"/>
+  <properties
+      key="Bouwsteenonderdelen"
+      value="www.rijksoverheid.nl"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <profiles
+      href="folder.xml#id-96b1a3288fce47beafa89c7fe62deb38"/>
+</archimate:Product>

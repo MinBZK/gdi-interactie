@@ -1,0 +1,10 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet Elektronische Publicaties"
+    id="id-68816250768b400281f307f3008d7d4f">
+  <properties
+      key="URl"
+      value="https://wetten.overheid.nl/BWBR0043961/2024-01-01"/>
+  <profiles
+      href="folder.xml#id-647870a648b0481c9912d46890a2a7cb"/>
+</archimate:Constraint>

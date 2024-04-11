@@ -1,0 +1,11 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AVG"
+    id="id-5c56beaa41ca4a5c999310e44bd777bc"
+    documentation="Algemene Verordening Gegevensbescherming">
+  <properties
+      key="URL"
+      value="https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=celex%3A32016R0679"/>
+  <profiles
+      href="folder.xml#id-647870a648b0481c9912d46890a2a7cb"/>
+</archimate:Constraint>

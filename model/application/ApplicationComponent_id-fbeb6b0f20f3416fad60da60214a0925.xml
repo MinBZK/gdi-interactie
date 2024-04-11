@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Huidige voorziening (Korte duiding vd)"
+    id="id-fbeb6b0f20f3416fad60da60214a0925"
+    documentation="omschrijving">
+  <properties
+      key="Beheerorganisatie"
+      value="naam van de organisatie die voorziening beheert"/>
+  <properties
+      key="URL"
+      value="link naar de pagina met details over de voorziening, liefst bij de beheerder van de voorziening"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,11 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tekst (titel v. pagina)"
+    id="id-073428e65e3e41318ea1a5c28a6f053a"
+    documentation="HTML v. pagina">
+  <properties
+      key="elementType"
+      value="de naam van het elementtype (inclusief specialisatie) in geval het een verwijzing is naar een overzicht of detailoverzicht"/>
+  <profiles
+      href="folder.xml#id-75517004e74f4b2bb056d64727d2d914"/>
+</archimate:Representation>

@@ -1,0 +1,10 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWV-Organogram"
+    id="id-2feda5d430bd487286005b9399ce5a32">
+  <properties
+      key="URL"
+      value="https://www.uwv.nl/nl/over-uwv/organisatie/bedrijfsonderdelen"/>
+  <profiles
+      href="folder.xml#id-cdfc811c517f46ef8f7204effe3d6908"/>
+</archimate:Representation>

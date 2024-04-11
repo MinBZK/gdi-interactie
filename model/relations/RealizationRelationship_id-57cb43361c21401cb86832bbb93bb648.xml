@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft uitvoering aan"
+    id="id-57cb43361c21401cb86832bbb93bb648">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-8c59a373ef624c93ac7dca99e3d7e6a3.xml#id-8c59a373ef624c93ac7dca99e3d7e6a3"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-23bc5915a75e45bb91d5c71015e6a199.xml#id-23bc5915a75e45bb91d5c71015e6a199"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GDI-voorziening"
+    id="id-0b98d52ea3c0483ab55a5727359f544f"
+    documentation="&#xD;&#xA;&lt;Modelnotitie: mogelijk bedrijfsfunctie of application component>">
+  <properties
+      key="BouwsteenID_DO30"/>
+  <properties
+      key="Bouwsteenonderdelen"/>
+  <properties
+      key="Domein"/>
+</archimate:Product>

@@ -1,0 +1,10 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstenwet"
+    id="id-45e956ead9704b6097ba25493319449d">
+  <properties
+      key="URL"
+      value="https://wetten.overheid.nl/BWBR0026759/2021-07-01"/>
+  <profiles
+      href="folder.xml#id-647870a648b0481c9912d46890a2a7cb"/>
+</archimate:Constraint>

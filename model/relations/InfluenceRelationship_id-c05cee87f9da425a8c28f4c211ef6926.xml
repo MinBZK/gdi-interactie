@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zet kaders voor"
+    id="id-c05cee87f9da425a8c28f4c211ef6926"
+    strength="+">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-a38a06f2b6bd4b0ba66416340ba39ea8.xml#id-a38a06f2b6bd4b0ba66416340ba39ea8"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-cfaac31f9b1d4b79b7eb70fc41f1ee6f.xml#id-cfaac31f9b1d4b79b7eb70fc41f1ee6f"/>
+</archimate:InfluenceRelationship>

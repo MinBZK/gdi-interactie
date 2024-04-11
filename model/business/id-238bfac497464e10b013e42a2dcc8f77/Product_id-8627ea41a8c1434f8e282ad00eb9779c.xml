@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GDI-bouwsteen"
+    id="id-8627ea41a8c1434f8e282ad00eb9779c"
+    documentation="voorziening, standaard of afspraak waarvan officieel is vastgelegd dat het onderdeel uitmaakt van de Generieke Digitale Infrastructuur.">
+  <properties
+      key="BouwsteenID_DO30"/>
+  <properties
+      key="Bouwsteenonderdelen"/>
+  <properties
+      key="Domein"/>
+</archimate:Product>

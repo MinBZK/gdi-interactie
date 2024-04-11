@@ -1,0 +1,10 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MijnServices referentie architectuur"
+    id="id-60c5c38823ac4b7baa7114340bfa8995">
+  <properties
+      key="URL"
+      value="https://www.gemmaonline.nl/index.php/Omnichannel_MijnServices"/>
+  <profiles
+      href="folder.xml#id-cdfc811c517f46ef8f7204effe3d6908"/>
+</archimate:Representation>

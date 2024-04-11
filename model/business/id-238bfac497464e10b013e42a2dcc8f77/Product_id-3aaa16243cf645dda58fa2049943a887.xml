@@ -1,0 +1,15 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Berichtenbox voor Bedrijven (huidige voorziening)"
+    id="id-3aaa16243cf645dda58fa2049943a887"
+    documentation="Met de Berichtenbox voor bedrijven kunt u als ondernemer digitaal berichten uitwisselen met Nederlandse overheidsorganisaties. En overheidsorganisaties kunnen veilig en gemakkelijk digitale berichten versturen aan u. &#xD;&#xA;&#xD;&#xA;&lt;Modelnotitie: mogelijk bedrijfsfunctie of application component>">
+  <properties
+      key="BouwsteenID_DO30"
+      value="B03"/>
+  <properties
+      key="Bouwsteenonderdelen"
+      value="berichtenbox; antwoordvoorbedrijven.nl"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+</archimate:Product>

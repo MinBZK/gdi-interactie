@@ -1,0 +1,18 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard (korte duiding vd)"
+    id="id-d3d31102921d425ea474e20d8c92712b"
+    documentation="Omschrijving vd standaard">
+  <properties
+      key="status"
+      value="status van de standaard bij Forum Standaardisatie (Verplicht of Aanbevolen) of nvt indien de standaard niet op de lijsten van het Forum Standaardisatie staan"/>
+  <properties
+      key="Beheerorganisatie"
+      value="naam vd organisatie die de standaard beheert (overnemen van Forum Standaardisatie indien mogelijk)"/>
+  <properties
+      key="Functioneel toepassingsgebied"
+      value="indien gedefinieerd door Forum Standaardisatie deze overnemen, anders weglaten"/>
+  <properties
+      key="URL"
+      value="Link naar pagina over de standaard bij Forum Standaardisatie indien mogelijk, anders link naar andere (liefst v. beheerder) pagina met details over de standaard"/>
+</archimate:Constraint>

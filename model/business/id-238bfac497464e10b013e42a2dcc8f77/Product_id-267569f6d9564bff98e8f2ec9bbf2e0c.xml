@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Huidige voorziening Attenderingsservice"
+    id="id-267569f6d9564bff98e8f2ec9bbf2e0c"
+    documentation="Berichten over uw buurt:&#xD;&#xA;Via Berichten over uw buurt zoekt u naar berichten van overheidsorganisaties, die invloed hebben op uw leefomgeving. Vanuit het zoekresultaat kunt u doorklikken naar het bericht zelf. Deze berichten staan op officielebekendmakingen.nl. Het is ook mogelijk een abonnement te nemen&#xD;&#xA;&#xD;&#xA;&lt;modelnotitie: mogelijk bedrijfsfunctie of application component)">
+  <properties
+      key="BouwsteenID_DO30"/>
+  <properties
+      key="Bouwsteenonderdelen"/>
+  <properties
+      key="Domein"/>
+</archimate:Product>

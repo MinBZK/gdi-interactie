@@ -1,0 +1,8 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIF"
+    id="id-372c106559cb4714b1cbf50beb5947c8"
+    documentation="New European Interoperability Framework: https://ec.europa.eu/isa2/sites/default/files/eif_brochure_final.pdf">
+  <profiles
+      href="folder.xml#id-cdfc811c517f46ef8f7204effe3d6908"/>
+</archimate:Representation>

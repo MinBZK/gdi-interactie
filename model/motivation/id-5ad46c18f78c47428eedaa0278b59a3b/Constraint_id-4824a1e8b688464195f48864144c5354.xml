@@ -1,0 +1,19 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAML - huidige verplichte standaard"
+    id="id-4824a1e8b688464195f48864144c5354"
+    documentation="Security Assertion Markup Language is een standaard voor het veilig uitwisselen van authenticatie- en autorisatiegegevens van gebruikers tussen verschillende organisaties.">
+  <properties
+      key="BouwsteenID_DO30"
+      value="B07a"/>
+  <properties
+      key="Bouwsteenonderdelen"
+      value="onderdeel van SSO"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <properties
+      key="URL"/>
+  <profiles
+      href="folder.xml#id-f085c4b379a2449da60db4deb34b8b7c"/>
+</archimate:Constraint>

@@ -1,0 +1,14 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centraal Meldpunt Identiteitsfraude"
+    id="id-0b643ec84f3247cfb0c77caf3c9f7811"
+    documentation="Het CMI registreert meldingen van identiteitsfraude en ondersteunt en adviseert slachtoffers. Huidige bouwsteen, voorziening in de vorm van organisatie/business product.">
+  <properties
+      key="BouwsteenID_DO30"
+      value="B04"/>
+  <properties
+      key="Bouwsteenonderdelen"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+</archimate:Product>
