@@ -4,4 +4,6 @@
     id="id-6bea2909271f425c8aff33a5ebe5673b"
     documentation="omschrijving">
   <properties/>
+  <profiles
+      href="folder.xml#id-8b4bf24d84d947a19f713d15172aedb3"/>
 </archimate:ApplicationComponent>

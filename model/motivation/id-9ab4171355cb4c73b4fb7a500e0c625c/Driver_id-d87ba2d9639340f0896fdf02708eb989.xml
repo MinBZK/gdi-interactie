@@ -1,11 +1,11 @@
-<archimate:Constraint
+<archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PSD2 "
-    id="id-f98687c62b004a9b9622c1d56eeef780"
+    id="id-d87ba2d9639340f0896fdf02708eb989"
     documentation="Revised Payment Service Directive ">
   <properties
       key="URL"
       value="https://eur-lex.europa.eu/eli/dir/2015/2366/oj"/>
   <profiles
-      href="folder.xml#id-647870a648b0481c9912d46890a2a7cb"/>
-</archimate:Constraint>
+      href="folder.xml#id-863b87574ecb4e609f6a807b9513101f"/>
+</archimate:Driver>

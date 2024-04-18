@@ -1,10 +1,10 @@
-<archimate:Constraint
+<archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet Digitale Overheid"
-    id="id-782df1809d0c4df79837f2286f82d3a8">
+    id="id-b0a3380d771b4fa79da70029c94d38af">
   <properties
       key="URL"
       value="https://wetten.overheid.nl/BWBR0048156/2023-07-01"/>
   <profiles
-      href="folder.xml#id-647870a648b0481c9912d46890a2a7cb"/>
-</archimate:Constraint>
+      href="folder.xml#id-863b87574ecb4e609f6a807b9513101f"/>
+</archimate:Driver>

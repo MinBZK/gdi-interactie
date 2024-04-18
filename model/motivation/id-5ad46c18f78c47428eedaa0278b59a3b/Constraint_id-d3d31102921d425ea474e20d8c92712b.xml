@@ -15,4 +15,6 @@
   <properties
       key="URL"
       value="Link naar pagina over de standaard bij Forum Standaardisatie indien mogelijk, anders link naar andere (liefst v. beheerder) pagina met details over de standaard"/>
+  <profiles
+      href="folder.xml#id-f085c4b379a2449da60db4deb34b8b7c"/>
 </archimate:Constraint>

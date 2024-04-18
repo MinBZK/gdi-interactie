@@ -1,11 +1,11 @@
-<archimate:Constraint
+<archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wetgeving (korte duiding vd)"
-    id="id-71636ebe191d408282d69812fe5f379c"
+    id="id-c97211af355c49809ef0eecc110dc577"
     documentation="korte omschrijving">
   <properties
       key="URL"
       value="link naar de formele publicatie"/>
   <profiles
-      href="folder.xml#id-647870a648b0481c9912d46890a2a7cb"/>
-</archimate:Constraint>
+      href="folder.xml#id-863b87574ecb4e609f6a807b9513101f"/>
+</archimate:Driver>

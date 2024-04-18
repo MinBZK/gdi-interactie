@@ -12,4 +12,6 @@
   <properties
       key="Domein"
       value="Interactie"/>
+  <profiles
+      href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
 </archimate:Product>

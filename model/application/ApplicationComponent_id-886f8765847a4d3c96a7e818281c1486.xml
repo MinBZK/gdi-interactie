@@ -1,4 +1,7 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="huidige voorziening"
-    id="id-886f8765847a4d3c96a7e818281c1486"/>
+    id="id-886f8765847a4d3c96a7e818281c1486">
+  <profiles
+      href="folder.xml#id-afeedb26a9aa4f75899569d96b0e1b82"/>
+</archimate:ApplicationComponent>

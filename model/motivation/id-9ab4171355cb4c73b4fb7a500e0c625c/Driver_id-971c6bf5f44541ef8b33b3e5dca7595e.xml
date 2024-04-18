@@ -1,11 +1,11 @@
-<archimate:Constraint
+<archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EU single Digital Gateway Verordening"
-    id="id-260e8288e1b84fa2a7b2de4bbb962458"
+    id="id-971c6bf5f44541ef8b33b3e5dca7595e"
     documentation="Verordening (EU) tot oprichting van één digitale toegangspoort voor informatie, procedures en diensten voor ondersteuning en probleemoplossing">
   <properties
       key="URL"
       value="https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32018R1724"/>
   <profiles
-      href="folder.xml#id-647870a648b0481c9912d46890a2a7cb"/>
-</archimate:Constraint>
+      href="folder.xml#id-863b87574ecb4e609f6a807b9513101f"/>
+</archimate:Driver>

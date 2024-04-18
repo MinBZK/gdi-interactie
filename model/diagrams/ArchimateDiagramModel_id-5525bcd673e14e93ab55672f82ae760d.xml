@@ -44,8 +44,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-71636ebe191d408282d69812fe5f379c.xml#id-71636ebe191d408282d69812fe5f379c"/>
+        xsi:type="archimate:Driver"
+        href="Driver_id-c97211af355c49809ef0eecc110dc577.xml#id-c97211af355c49809ef0eecc110dc577"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -122,8 +122,8 @@
         source="id-516f45501f1a4ef0bd8cd0cd51f4f19d"
         target="id-98caa9ef3c5f4fa997c7923fc4c84a1f">
       <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-937c24133c324ff095580e67d85ff0da.xml#id-937c24133c324ff095580e67d85ff0da"/>
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-0a1530a209e946548a5695184e587db8.xml#id-0a1530a209e946548a5695184e587db8"/>
     </sourceConnections>
     <bounds
         x="168"

@@ -28,11 +28,27 @@
       id="id-cdfc811c517f46ef8f7204effe3d6908"
       conceptType="Representation"/>
   <profiles
-      name="Huidige GDI bouwsteen"
-      id="id-96b1a3288fce47beafa89c7fe62deb38"
+      name="Brondocument"
+      id="id-f82fd4a753d84c68a1c200dfb19880d7"
+      conceptType="Representation"/>
+  <profiles
+      name="Gewenste GDI-bouwsteen"
+      id="id-85180244ad124894bdb5855ac16764a3"
       conceptType="Product"/>
   <profiles
-      name="Gewenste GDI bouwsteen"
-      id="id-e7115fcc49be4ee28934894436cf6128"
+      name="Huidige GDI-bouwsteen"
+      id="id-56b3a4df45ef4551b809919a5e54a77e"
       conceptType="Product"/>
+  <profiles
+      name="Huidige voorziening"
+      id="id-afeedb26a9aa4f75899569d96b0e1b82"
+      conceptType="ApplicationComponent"/>
+  <profiles
+      name="Gewenste voorziening"
+      id="id-8b4bf24d84d947a19f713d15172aedb3"
+      conceptType="ApplicationComponent"/>
+  <profiles
+      name="Wetgeving"
+      id="id-863b87574ecb4e609f6a807b9513101f"
+      conceptType="Driver"/>
 </archimate:ArchimateModel>
