@@ -20,10 +20,6 @@
       id="id-f085c4b379a2449da60db4deb34b8b7c"
       conceptType="Constraint"/>
   <profiles
-      name="Wetgeving"
-      id="id-647870a648b0481c9912d46890a2a7cb"
-      conceptType="Constraint"/>
-  <profiles
       name="Document"
       id="id-cdfc811c517f46ef8f7204effe3d6908"
       conceptType="Representation"/>
