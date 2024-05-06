@@ -1,0 +1,11 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA katern ketensturing"
+    id="id-f441c855ebfc4062b1d2834105637348"
+    documentation="voorbeeld van een uitwerking van organisatie-architectuur op niveau van ketenafspraken tbv interactie">
+  <properties
+      key="URL"
+      value="https://www.noraonline.nl/wiki/Ketensturing/Voorwoord_tweede_druk"/>
+  <profiles
+      href="folder.xml#id-f82fd4a753d84c68a1c200dfb19880d7"/>
+</archimate:Representation>

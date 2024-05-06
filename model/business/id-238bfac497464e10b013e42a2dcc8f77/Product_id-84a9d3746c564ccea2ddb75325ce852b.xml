@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Single Sign On"
+    id="id-84a9d3746c564ccea2ddb75325ce852b"
+    documentation="Toekomstige bouwsteen, waarschijnlijk stelsel. Een GDI-bouwsteen die regelt dat klant* door middel van een keer inloggen gebruik kan maken van verschillende diensten van de overheid.">
+  <properties
+      key="BouwsteenID_DO30"
+      value="B07"/>
+  <properties
+      key="Bouwsteenonderdelen"
+      value="Security Assertion Markup Language (SAML) - verplichte standaard; OpenID Connect (OIDC) - aanbevolen standaard"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <profiles
+      href="folder.xml#id-85180244ad124894bdb5855ac16764a3"/>
+</archimate:Product>

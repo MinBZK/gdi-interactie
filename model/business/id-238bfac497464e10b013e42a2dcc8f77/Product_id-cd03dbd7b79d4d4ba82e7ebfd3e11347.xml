@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nederland wereldwijd"
+    id="id-cd03dbd7b79d4d4ba82e7ebfd3e11347"
+    documentation="Op nederlandwereldwijd.nl vindt u alle informatie van de Nederlandse overheid op 1 plek. Voor als u in het buitenland bent. Of daar naartoe gaat.&#xD;&#xA;&#xD;&#xA;&lt;modelnotitie: kan ook worden gemodeleerd als bedrijfsfunctie of application component>">
+  <properties
+      key="BouwsteenID_DO30"
+      value="B13"/>
+  <properties
+      key="Bouwsteenonderdelen"
+      value="www.nederlandwereldwijd.nl"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <profiles
+      href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
+</archimate:Product>

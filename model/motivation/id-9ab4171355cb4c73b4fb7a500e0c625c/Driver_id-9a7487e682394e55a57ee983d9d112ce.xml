@@ -1,0 +1,11 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EU Verklaring Digitale rechten en beginselen"
+    id="id-9a7487e682394e55a57ee983d9d112ce"
+    documentation="Europese verklaring over digitale rechten en beginselen voor het digitale decennium">
+  <properties
+      key="URL"
+      value="https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32023C0123(01)"/>
+  <profiles
+      href="folder.xml#id-863b87574ecb4e609f6a807b9513101f"/>
+</archimate:Driver>

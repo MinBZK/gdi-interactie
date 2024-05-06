@@ -1,0 +1,10 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet Open Overheid"
+    id="id-abb160cbe26b49d7ad50942a2c4d32ee">
+  <properties
+      key="URL"
+      value="https://wetten.overheid.nl/BWBR0045754/2023-04-01"/>
+  <profiles
+      href="folder.xml#id-863b87574ecb4e609f6a807b9513101f"/>
+</archimate:Driver>

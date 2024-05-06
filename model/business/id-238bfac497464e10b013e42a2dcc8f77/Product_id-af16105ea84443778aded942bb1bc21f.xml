@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Single Digital Gateway Your Europe"
+    id="id-af16105ea84443778aded942bb1bc21f"
+    documentation="Een EU-afsprakenstelsel (EU-verordening) dat moet stimuleren dat alle burgers en bedrijven binnen de EU eenvoudig toegang kunnen krijgen tot overheidsdiensten van alle EU-lidstaten via een Single Digital Gateway in de vorm van de voorziening Your Europe (europa.eu). Your Europe is een EU-site die u helpt problemen en onnodige rompslomp te vermijden als u in een ander EU-land wilt wonen, werken of studeren of daar gewoon iets wilt kopen of op vakantie gaan. Of wanneer u daar als ondernemer actief bent. Your Europe geeft u: 1) informatie over uw grondrechten op basis van de EU-wetgeving, 2) toegang tot een netwerk van nationale portals met informatie over hoe de EU-regels in het betreffende EU-land worden toegepast voor gebruikers uit andere EU-landen (in overeenstemming met de verordening inzake één digitale toegangspoort), 3) gratis uitvoerig en persoonlijk advies van onze EU-hulpdiensten per e-mail of telefoon.">
+  <properties
+      key="BouwsteenID_DO30"
+      value="19"/>
+  <properties
+      key="Bouwsteenonderdelen"
+      value="europa.eu (Your Europe)"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <profiles
+      href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
+</archimate:Product>

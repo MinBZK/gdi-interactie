@@ -1,0 +1,8 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaarden"
+    id="id-8417f0486c74418f92624035b32ef551"
+    documentation="De gehele set van standaarden die nodig zijn om de gewenste één-overheidsbeleving te creëren.  ">
+  <profiles
+      href="folder.xml#id-f085c4b379a2449da60db4deb34b8b7c"/>
+</archimate:Constraint>

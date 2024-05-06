@@ -1,0 +1,8 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organogrammen"
+    id="id-e34558e632ad4a3e9fbec0f6356911ad"
+    documentation="Organogrammen van overheidsorganisaties.">
+  <profiles
+      href="folder.xml#id-f82fd4a753d84c68a1c200dfb19880d7"/>
+</archimate:Representation>

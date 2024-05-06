@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MijnProfiel-service"
+    id="id-776bd5e9c230490cb9e154e373fd582c"
+    documentation="Een voorziening die de overheid in staat stelt profielkeuzes van Iedereen* vast te leggen en/of passend te benutten. Deze voorziening bevat ook een orkestratiefunctie naar organisatiespecifieke MijnProfiel-services, voor het uitwisselen van MijnProfiel-gegevens. &#xD;&#xA;&#xD;&#xA;&lt;annotatie: zie cursiefje xxx en VNG MijnServices-architectuur>&#xD;&#xA;&lt;Modelnotitie: mogelijk bedrijfsfunctie of application component>">
+  <properties
+      key="BouwsteenID_DO30"
+      value="nvt"/>
+  <properties
+      key="Bouwsteenonderdelen"
+      value="nvt"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <profiles
+      href="folder.xml#id-85180244ad124894bdb5855ac16764a3"/>
+</archimate:Product>

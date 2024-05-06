@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overheid.nl"
+    id="id-c8f37ddfb7ce42be8528ab6edb05288d"
+    documentation="De website Overheid.nl is de wegwijzer naar informatie en diensten van alle overheidsorganisaties in Nederland. Het Register Overheidsorganisaties biedt toegang tot informatie van alle overheidsorganen in Nederland.&#xD;&#xA;In het onderdeel Wet- en regelgeving vindt u de verdragen, wetten, ministeriële regelingen, algemene maatregelen van bestuur en andere koninklijke besluiten, regelgeving van zelfstandige bestuursorganen (ZBO's) en de publiekrechtelijke&#xD;&#xA;bedrijfsorganisatie (PBO) en de wetten en regels die per 10-10-2010 van kracht zijn geworden voor de BES-eilanden (Bonaire, Sint Eustatius en Saba). Officielebekendmakingen.nl is de authentieke bron voor officiële bekendmakingen en&#xD;&#xA;parlementaire documenten. In het onderdeel 'Lokale wet- en regelgeving' vindt u de geconsolideerde teksten van algemeen verbindende voorschriften, vastgesteld door een decentrale overheid. Het platform open overheidsinformatie maakt overheidsinformatie op één centrale plaats toegankelijk. De documenten in dit portaal worden actief openbaar gemaakt onder de Wet open overheid (Woo). TOOI is een model van de informatie die gepubliceerd wordt door alle organisaties&#xD;&#xA;binnen de Nederlandse overheid198. Met behulp van het TOOI-model kan die informatie in samenhang vindbaar gemaakt worden over organisaties en informatiesystemen heen. Organisaties binnen en buiten de overheid kunnen TOOI gebruiken om de inhoud van hun informatiesystemen van metadata te voorzien, waardoor deze eenvoudig gerelateerd kan worden aan inhoud uit andere bronnen die met TOOI zijn verrijkt. De verdragenbank bevat de gegevens van de verdragen, waarbij het Koninkrijk der Nederlanden partij is. Deze informatie is toegankelijk via de website verdragenbank.overheid.nl. Op de website wetgevingskalender.overheid.nl staat alle informatie over wetgeving-inwording. Iedereen kan zo exact inzien welke aankomende wetten en algemene maatregelen van bestuur er in de wachtrij staan. Via internetconsultatie.nl kan iedereen reageren op concept wet- en regelgeving die door het kabinet of het parlement worden voorbereid.&#xD;&#xA;&#xD;&#xA;&lt;annotatie: alleen bouwsteenonderdelen omschreven in DO30. Overweeg te wijzigen.>">
+  <properties
+      key="BouwsteenID_DO30"
+      value="15"/>
+  <properties
+      key="Bouwsteenonderdelen"
+      value="www.overheid.nl; organisaties.overheid.nl (register Overheidsorganisaties); wetten.overheid.nl; officielebekendmakingen.nl; lokaleregelgeving.overheid.nl; Platform Open Overheidsinformatie (PLOOI) open.overheid.nl; Thesaurus en Ontologie voor OverheidsInformatie (TOOI); verdragenbank.overheid.nl; Wetgevingskalender.overheid.nl; Internetconsultatie.nl"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <profiles
+      href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
+</archimate:Product>

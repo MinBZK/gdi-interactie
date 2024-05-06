@@ -1,0 +1,14 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stelsels"
+    id="id-2a953dad3408480890ff9580bd2375b8"
+    documentation="Er zijn een aantal relevante 'stelsels' van kracht of in ontwikkeling die de governance van GDI/Digitale Overheid mede-vormgeven. Dit zijn sets van (GDI-)afspraken.">
+  <properties
+      key="BouwsteenID_DO30"/>
+  <properties
+      key="Bouwsteenonderdelen"/>
+  <properties
+      key="Domein"/>
+  <profiles
+      href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
+</archimate:Product>

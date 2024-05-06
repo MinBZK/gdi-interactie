@@ -1,0 +1,15 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overheidsbreed berichtenoverzicht service"
+    id="id-ddcd0fe4a75f4539860b2b31e4e03dcd"
+    documentation="Deze service zorgt ervoor dat een samengesteld berichtenoverzicht kan worden opgebouwd voor Iedereen* uit de berichtenoverzichten van de verschillende overheidsorganisaties.&#xD;&#xA;&#xD;&#xA;&lt;annotatie: nog niet als gewenst opgenomen in ADO2030>&#xD;&#xA;&lt;modelnotitie: mogelijk business functie of application component>">
+  <properties
+      key="BouwsteenID_DO30"/>
+  <properties
+      key="Bouwsteenonderdelen"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <profiles
+      href="folder.xml#id-85180244ad124894bdb5855ac16764a3"/>
+</archimate:Product>

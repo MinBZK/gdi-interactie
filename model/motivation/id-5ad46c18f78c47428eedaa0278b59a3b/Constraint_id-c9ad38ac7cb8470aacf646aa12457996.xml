@@ -1,0 +1,19 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OpenID Connect (OIDC)"
+    id="id-c9ad38ac7cb8470aacf646aa12457996"
+    documentation="OpenID Connect (OIDC) is een open en gedistribueerde manier om één authenticatiedienst naar keuze te kunnen hergebruiken bij meerdere (semi-)overheidsdienstverleners, bij gebruik vanuit onder andere webapplicaties en mobiele apps.">
+  <properties
+      key="BouwsteenID_DO30"
+      value="B07b"/>
+  <properties
+      key="Bouwsteenonderdeel"
+      value="onderdeel van B07 - Single Sign On"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <properties
+      key="URL"/>
+  <profiles
+      href="folder.xml#id-f085c4b379a2449da60db4deb34b8b7c"/>
+</archimate:Constraint>
