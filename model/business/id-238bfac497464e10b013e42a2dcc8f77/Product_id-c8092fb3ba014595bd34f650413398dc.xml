@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="open.overheid.nl"
+    id="id-c8092fb3ba014595bd34f650413398dc"
+    documentation="MijnOverheid is het persoonlijke portaal van de overheid voor burgers. Op de website van MijnOverheid of via de Berichtenbox en MijnGegevens app hebben burgers overzichtelijk, veilig en gemakkelijk toegang tot de overheid. Zij kunnen gegevens over henzelf inzien en post van de overheid ontvangen in de digitale Berichtenbox. MijnOverheid Berichtenbox maakt onderdeel uit van het Federatief Berichtenstelsel.&#xD;&#xA;&#xD;&#xA;&lt;annotatie: nu zowel opgenomen als bouwsteenonderdeel, als als zelfstandige bouwsteen. Mogelijk i.v.m. status FBS? Hierin expliciete keuze nodig in volgende versie ADO30. Tekst checken, onderdeel zijn van niet operationeel FBS kan niet>&#xD;&#xA;&lt;Modelnotitie: mogelijk ook te modeleren als bedrijfsfunctie of application component>">
+  <properties
+      key="BouwsteenID_DO30"
+      value="B11"/>
+  <properties
+      key="Bouwsteenonderdelen"
+      value="mijn.overheid.nl; App Berichtenbox"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <profiles
+      href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
+</archimate:Product>

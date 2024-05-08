@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft voorlichting"
+    id="id-306234edb4674c8fa4f2ce1cdc20a42b">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3a8af4150439458c831f6a6245131ff2.xml#id-3a8af4150439458c831f6a6245131ff2"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1a9f930476dd446886521e948ffa19b4.xml#id-1a9f930476dd446886521e948ffa19b4"/>
+</archimate:AssociationRelationship>

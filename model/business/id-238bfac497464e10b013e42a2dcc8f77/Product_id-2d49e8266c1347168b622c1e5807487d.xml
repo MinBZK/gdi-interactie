@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerkende catalogi"
+    id="id-2d49e8266c1347168b622c1e5807487d"
+    documentation="De Samenwerkende Catalogi (SC) is een set afspraken over het uitwisselen van informatie over producten en diensten van de overheid op het internet. Door productinformatie te labelen met afgesproken labels en waarden kan deze hergebruikt&#xA;worden.&#xA;&#xA;De Uniforme Productnamenlijst is een lijst met uniforme naamgeving voor de producten en diensten die de Nederlandse overheid biedt aan burgers en bedrijven.&#xA;&#xA;De Overheid.nl Web Metadata Standaard (OWMS) is de metadatastandaard voor informatie van de Nederlandse overheid op internet. De standaard is gebaseerd op de internationale metadatastandaard van het Dublin Core Metadata Initiative (DCMI)&#xA;&#xA;&lt;checken of het correct is dat OWMS hier onderdeel van is in beschrijving, logischer die los op te nemen>">
+  <properties
+      key="BouwsteenID_DO30"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <properties
+      key="Operationeel"
+      value="Ja"/>
+  <properties
+      key="URL"
+      value="https://standaarden.overheid.nl/owms/oquery/UPL-actueel.plain"/>
+</archimate:Product>

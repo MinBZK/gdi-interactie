@@ -1,0 +1,19 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NL Design System"
+    id="id-7bf5db1996a643c1aa9625abce9f0be8"
+    documentation="Set van herbruikbare UX-componenten voor overheidswebsites die ervoor zorgt dat alle overheden die het gebruiken hetzelfde consistente website uiterlijk en gedrag aanbieden.&#xA;&#xA;&lt;aangepast tov ADO30; checken>">
+  <properties
+      key="BouwsteenID_DO30"/>
+  <properties
+      key="Domein"
+      value="Interactie"/>
+  <properties
+      key="Operationeel"
+      value="Ja"/>
+  <properties
+      key="URL"
+      value="https://nldesignsystem.nl/"/>
+  <profiles
+      href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
+</archimate:Product>

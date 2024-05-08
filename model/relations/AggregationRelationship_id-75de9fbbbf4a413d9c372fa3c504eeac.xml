@@ -1,0 +1,13 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="complexe partij samenstelling"
+    id="id-75de9fbbbf4a413d9c372fa3c504eeac"
+    documentation="Een partij kan bestaan uit partijen, echter Iedereen*, c.q. een mens, kan niet worden onderverdeeld. Iedereen* kan wel samen met andere partijen een partij vormen. ">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-552a270e06f3419eb96b1eaa9f1602c9.xml#id-552a270e06f3419eb96b1eaa9f1602c9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-552a270e06f3419eb96b1eaa9f1602c9.xml#id-552a270e06f3419eb96b1eaa9f1602c9"/>
+</archimate:AggregationRelationship>

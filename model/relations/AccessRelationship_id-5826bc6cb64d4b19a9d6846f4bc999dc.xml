@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verwerkt"
+    id="id-5826bc6cb64d4b19a9d6846f4bc999dc"
+    documentation="Overheidsdiensten gebruiken eerder overheidsbreed vastgelegde gegevens en leggen vast en/of wijzigen de gegevens waar zij verantwoordelijk voor zijn vanuit hun wettelijke taak"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c7974ed5e6cc4cc48a93359a0932d12f.xml#id-c7974ed5e6cc4cc48a93359a0932d12f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0d77112cdaff4fc1938bffa87f79cbe9.xml#id-0d77112cdaff4fc1938bffa87f79cbe9"/>
+</archimate:AccessRelationship>

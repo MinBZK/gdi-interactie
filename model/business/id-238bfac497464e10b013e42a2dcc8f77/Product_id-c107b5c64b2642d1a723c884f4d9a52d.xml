@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wallet"
+    id="id-c107b5c64b2642d1a723c884f4d9a52d"
+    documentation="&lt;Niet kloppende verwijzing in ADO30: Zie Toegangstelsel in de tabel Bouwstenen voor Diensten en producten>">
+  <properties
+      key="Domein"
+      value="Toegang"/>
+  <profiles
+      href="folder.xml#id-85180244ad124894bdb5855ac16764a3"/>
+</archimate:Product>

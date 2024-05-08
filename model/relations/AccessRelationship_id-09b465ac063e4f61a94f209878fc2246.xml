@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="legt vast"
+    id="id-09b465ac063e4f61a94f209878fc2246"
+    documentation="Iedereen legt zelf profielgegevens vast, zoals communicatiegegevens, voorkeuren, toegepaste middelen en toestemmingen">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-77c840a4bee74c6a8016b926c7d0ff25.xml#id-77c840a4bee74c6a8016b926c7d0ff25"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-5e45f39f011642c7ababe0c71efe4af8.xml#id-5e45f39f011642c7ababe0c71efe4af8"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft inzage en..."
+    id="id-2695896ec9a846e798e9a46b365b1d81"
+    documentation="Iedereen heeft inzage in gegevens die op hem of haar betrekking hebben, heeft correctierecht. Veelal betreft dit gegevens die eenmalig zijn opgegeven (in het kader van een bepaalde overheidsdienst) en sindsdien door overheidsbreed gebruikt worden waar dat is toegestaan. "
+    accessType="2">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-77c840a4bee74c6a8016b926c7d0ff25.xml#id-77c840a4bee74c6a8016b926c7d0ff25"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0d77112cdaff4fc1938bffa87f79cbe9.xml#id-0d77112cdaff4fc1938bffa87f79cbe9"/>
+</archimate:AccessRelationship>

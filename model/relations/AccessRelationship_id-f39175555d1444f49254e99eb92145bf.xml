@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ontvangt direct"
+    id="id-f39175555d1444f49254e99eb92145bf"
+    documentation="Notificaties worden real time ontvangen conform de in het Profiel vastgelegde communicatievoorkeuren."
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-77c840a4bee74c6a8016b926c7d0ff25.xml#id-77c840a4bee74c6a8016b926c7d0ff25"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-342d063be80c4519bbb4d974daa79cfe.xml#id-342d063be80c4519bbb4d974daa79cfe"/>
+</archimate:AccessRelationship>

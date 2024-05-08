@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ziet in en kan reageren"
+    id="id-2f107684e9c743bda12ad3faf04fad22"
+    documentation="Iedereen* ontvangt Berichten van de Overheid met het resultaat van een Overheidsdienst waar Interactie mee heeft plaatsgevonden, veelal in het kader van een Zaak.&#xA;&#xA;MAAR!&#xA;In een vervolgstap is er een handelingsperspectief om te reageren en – als we generaliseren – is er veel voor te zeggen een bericht van Iedereen naar de Overheid, ook als dit geen reactie is en ook als dit een verzoek om een overheidsdienst te starten betreft als een &quot;Bericht&quot; te zien dat opgenomen wordt in mijnOverzicht. Alternatief is een andere term voor berichten naar de overheid te hanteren, b.v. Verzoek"
+    accessType="2">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-77c840a4bee74c6a8016b926c7d0ff25.xml#id-77c840a4bee74c6a8016b926c7d0ff25"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ccdd86a7ccf84e75ac94cc21c3d14576.xml#id-ccdd86a7ccf84e75ac94cc21c3d14576"/>
+</archimate:AccessRelationship>
