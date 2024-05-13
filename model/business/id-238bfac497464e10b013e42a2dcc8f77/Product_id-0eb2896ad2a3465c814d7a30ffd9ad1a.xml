@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specifieke Dienst (abstract)"
+    id="id-0eb2896ad2a3465c814d7a30ffd9ad1a"
+    documentation="Dit is de abstractie van bouwstenen die uitvoeringsorganisaties vanuit hun eigen opgave en verantwoordelijkheid hebben. Deze bouwstenen moeten voldoen aan de uitgangspunten, afspraken, standaarden en architectuurprincipes van de digitale overheid om bij te dragen aan de overkoepelende doelen en functioneren van de overheidsbrede capabilities. ">
+  <profiles
+      href="folder.xml#id-85180244ad124894bdb5855ac16764a3"/>
+</archimate:Product>

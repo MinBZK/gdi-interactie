@@ -12,6 +12,15 @@
   <properties
       key="Domein"
       value="Interactie"/>
+  <properties
+      key="Operationeel"
+      value="Nee"/>
+  <properties
+      key="URL"
+      value="https://www.logius.nl/domeinen/interactie/mijnoverheid/ontwikkeling-bij-mijnoverheid/federatief-berichten-stelsel-fbs"/>
+  <properties
+      key="URL"
+      value="https://www.rijksictdashboard.nl/ict-activiteiten/67164d63-5c60-4e0b-b04a-19f04493681b"/>
   <profiles
-      href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
+      href="folder.xml#id-85180244ad124894bdb5855ac16764a3"/>
 </archimate:Product>

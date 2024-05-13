@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track en trace"
+    id="id-b3d0641f0f9148678e3681bc6c383a86"
+    documentation="ia afspraken over een ‘track and trace’ mechanisme als onderdeel van ‘mijnoverheid/Lopende Zaken’ kunnen burgers en bedrijven de voortgang over organisaties heen van een proces volgen. Dit is ook mogelijk door tussenkomst van medewerkers van bijvoorbeeld een klantcontactcenter.&#xA;&#xA;&lt;In elkaar schuiven met Lopende Zaken, ADO30 Zie MijnOverheid Berichtenbox in de tabel Bouwstenen voor Diensten en producten. Niet kloppende verwijzing>&#xA;">
+  <profiles
+      href="folder.xml#id-85180244ad124894bdb5855ac16764a3"/>
+</archimate:Product>

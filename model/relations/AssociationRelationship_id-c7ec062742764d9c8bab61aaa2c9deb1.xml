@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="conform"
+    id="id-c7ec062742764d9c8bab61aaa2c9deb1"
+    documentation="Notificaties worden verzonden aan het in Profiel vastgelegde &quot;adres&quot; via gewenste kanaal">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-342d063be80c4519bbb4d974daa79cfe.xml#id-342d063be80c4519bbb4d974daa79cfe"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-5e45f39f011642c7ababe0c71efe4af8.xml#id-5e45f39f011642c7ababe0c71efe4af8"/>
+</archimate:AssociationRelationship>

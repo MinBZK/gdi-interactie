@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="overheidsdienstverlening c.q. interactie"
+    id="id-70c2a2675f584db680c9137ab32be746">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c7974ed5e6cc4cc48a93359a0932d12f.xml#id-c7974ed5e6cc4cc48a93359a0932d12f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-77c840a4bee74c6a8016b926c7d0ff25.xml#id-77c840a4bee74c6a8016b926c7d0ff25"/>
+</archimate:ServingRelationship>

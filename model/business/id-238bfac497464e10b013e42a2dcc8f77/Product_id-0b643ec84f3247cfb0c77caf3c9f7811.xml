@@ -11,6 +11,12 @@
   <properties
       key="Domein"
       value="Interactie"/>
+  <properties
+      key="URL"
+      value="https://www.rvig.nl/cmi"/>
+  <properties
+      key="Operationeel"
+      value="Ja"/>
   <profiles
       href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
 </archimate:Product>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="attendeert real time"
+    id="id-7927655240d44452b80429ca5c5dec9e"
+    documentation="Relevante voortgang wordt gemeld aan de betrokkene. In abstractie is dit dezelfde informatie die nodig is voor track &amp; trace. Nog bepalen of Notificaties altijd een Bericht betreffen (nu wel) en of in Profiel kan worden vastgelegd dat Notificaties naar meer Partijen gaan. ">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c7974ed5e6cc4cc48a93359a0932d12f.xml#id-c7974ed5e6cc4cc48a93359a0932d12f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-342d063be80c4519bbb4d974daa79cfe.xml#id-342d063be80c4519bbb4d974daa79cfe"/>
+</archimate:AccessRelationship>

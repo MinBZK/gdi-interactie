@@ -1,6 +1,6 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Digitaal Ondernemersplein huidige voorziening"
+    name="Digitaal Ondernemersplein"
     id="id-3b11d24bb3b7492fad8f9911c1631af8"
     documentation="via Ondernemersplein.kvk.nl vindt u informatie en advies van de (semi)overheid. Alles wat u nodig heeft om te ondernemen.&#xD;&#xA;&#xD;&#xA;&lt;Modelnotitie: mogelijk bedrijfsfunctie of application component>">
   <properties
@@ -12,6 +12,12 @@
   <properties
       key="Domein"
       value="Interactie"/>
+  <properties
+      key="URL"
+      value="https://ondernemersplein.kvk.nl/"/>
+  <properties
+      key="Operationeel"
+      value="Ja"/>
   <profiles
       href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
 </archimate:Product>

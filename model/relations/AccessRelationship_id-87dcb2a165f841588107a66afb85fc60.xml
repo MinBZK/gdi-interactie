@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft desgevraagd"
+    id="id-87dcb2a165f841588107a66afb85fc60"
+    documentation="Bij iedere interactie wordt door de overheid om feedback gevraagd. Dit betreft feedback op het dienstverleningsproces. Feedback op het resultaat en vervolgstappen vallen onder Bericht / Verzoek">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-77c840a4bee74c6a8016b926c7d0ff25.xml#id-77c840a4bee74c6a8016b926c7d0ff25"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-036a9473778e429085ceefacd9248131.xml#id-036a9473778e429085ceefacd9248131"/>
+</archimate:AccessRelationship>

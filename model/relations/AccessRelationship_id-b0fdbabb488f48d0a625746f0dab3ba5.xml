@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="benut"
+    id="id-b0fdbabb488f48d0a625746f0dab3ba5"
+    documentation="Overheidsorganisaties benutten feedback en leggen daar verantwoording over af (die actief openbaar gemaakt wordt)."
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c7974ed5e6cc4cc48a93359a0932d12f.xml#id-c7974ed5e6cc4cc48a93359a0932d12f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-036a9473778e429085ceefacd9248131.xml#id-036a9473778e429085ceefacd9248131"/>
+</archimate:AccessRelationship>

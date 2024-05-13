@@ -12,6 +12,12 @@
   <properties
       key="Domein"
       value="Interactie"/>
+  <properties
+      key="URL"
+      value="https://europa.eu/youreurope/index.htm"/>
+  <properties
+      key="Operationeel"
+      value="Ja"/>
   <profiles
       href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
 </archimate:Product>

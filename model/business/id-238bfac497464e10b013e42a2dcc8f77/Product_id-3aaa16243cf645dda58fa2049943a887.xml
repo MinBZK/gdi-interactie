@@ -1,6 +1,6 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Berichtenbox voor Bedrijven (huidige voorziening)"
+    name="Berichtenbox voor Bedrijven"
     id="id-3aaa16243cf645dda58fa2049943a887"
     documentation="Met de Berichtenbox voor bedrijven kunt u als ondernemer digitaal berichten uitwisselen met Nederlandse overheidsorganisaties. En overheidsorganisaties kunnen veilig en gemakkelijk digitale berichten versturen aan u. &#xD;&#xA;&#xD;&#xA;&lt;Modelnotitie: mogelijk bedrijfsfunctie of application component>">
   <properties
@@ -12,6 +12,12 @@
   <properties
       key="Domein"
       value="Interactie"/>
+  <properties
+      key="URL"
+      value="https://berichtenbox.antwoordvoorbedrijven.nl/"/>
+  <properties
+      key="Operationeel"
+      value="Ja"/>
   <profiles
       href="folder.xml#id-56b3a4df45ef4551b809919a5e54a77e"/>
 </archimate:Product>
