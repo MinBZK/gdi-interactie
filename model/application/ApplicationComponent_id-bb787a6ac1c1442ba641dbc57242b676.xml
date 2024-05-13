@@ -9,4 +9,6 @@
       key="Bouwsteenonderdelen"/>
   <properties
       key="Domein"/>
+  <profiles
+      href="folder.xml#id-afeedb26a9aa4f75899569d96b0e1b82"/>
 </archimate:ApplicationComponent>
